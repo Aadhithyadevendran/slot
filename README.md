@@ -117,9 +117,6 @@ Execute the program
 <td align="center">19CS301P1</td>
 <td>PYTHON</td>
 </tr>
-
-
-
 </table>
 </body>
 </html>
