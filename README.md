@@ -127,7 +127,7 @@ Execute the program
 ![OUTPUT](http://aadhithya.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://aadhithya.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](http://aadhithya.student.saveetha.in:8000/static/images/validator.png?raw=true)
 
 # RESULT
 The program for creating slot timetable is completed successfully 
